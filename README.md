@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonginnnnn&count_bg=%23FFD8AA&title_bg=%23F3AFEE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![seongin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonginnnnn&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj={tjd6411})](https://solved.ac/{tjd6411})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={tjd6411})](https://solved.ac/{tjd6411})
 <!--
 **seonginnnnn/seonginnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
